@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ensayo": "esto es un ensayo"
+        "toponimia": "la bayadera toma su nombre del portugues bailarina debido a las hermosas cortesanas que esperaban en los bares a los hombres que terminaban su jornada laboral"
       },
       "geometry": {
         "type": "Polygon",
