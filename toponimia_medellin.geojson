@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "ensayo": "esto es un ensayo"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
