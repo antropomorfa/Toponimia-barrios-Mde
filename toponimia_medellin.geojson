@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "toponimia": "La Bayadera toma su nombre del portugues bailarina, se le llama bayadera por la cantidad de hermosas bailarinas y cortesanas que trabajaban en los bares de este sector"
+        "toponimia": "La Bayadera toma su nombre del portugues bailarina, se le llama bayadera por la cantidad de hermosas bailarinas y cortesanas que trabajaban en los bares de este sector",
+        "fecha": "1967"
       },
       "geometry": {
         "type": "Polygon",
